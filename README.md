@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Krasimir :technologist:
 
-- 🔭I'm currently working on getting my degree as a C# web developer from SoftUni
+- 🔭I'm currently looking for a junior position as a C# web developer from SoftUni
 - 📫 How to reach me: kvinceto@gmail.com or kvi_2012@abv.bg
 - My portfolio site [Portfolio](https://kvinceto.github.io/portfolio/)
 
